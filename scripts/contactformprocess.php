@@ -1,7 +1,6 @@
 <?php
 
-$emailTo = "Brenda <fetchinc.k9@gmail.com>";
-//$emailTo = "Serena <serena.c7@gmail.com>";
+$emailTo = "Brenda <fetchink.k9@gmail.com>, InfoK9 <info@fetchk9.ca>";
 $emailSubject = "FETCHK9.CA: Contact Form";
 $stopSpamAnswer = "25";
 
